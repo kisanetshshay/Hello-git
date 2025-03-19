@@ -1,0 +1,24 @@
+﻿* Killimall ensures t’hat all sellers on the platform are checked and verified to be trustworthy. This helps customers feel confident that they are buying from legitimate and reliable sources, reducing the risk of scams or fake products.
+1. Product Authenticity
+   * Killimall guarantees that the products sold on the platform are genuine and not counterfeit. This means customers can trust that they are getting authentic, high-quality items as advertised.
+2. Customer Reviews
+   * Killimall allows customers to leave feedback and ratings for products and sellers. These reviews help other buyers make informed decisions by learning about the experiences of previous customers.
+3. Secure Payment
+   * Killimall ensures that all payment transactions are safe and protected. This means customers’ financial information (like credit card details) is encrypted and secure, so they don’t have to worry about fraud or theft during checkout.
+4. Package Tracking
+   * Killimall provides tracking services for orders, so customers can monitor the status of their delivery in real-time. This transparency helps customers know where their package is and when it will arrive, improving their overall shopping experience.
+   * 5. arly Delivery of a Functional Product :
+   * The iterative model delivers a basic, working version of the product early in the development cycle. This allows stakeholders to see tangible results quickly and start using core features sooner.
+6. Continuous User Improvement and Feedback :
+   * Each iteration incorporates user feedback, ensuring the product evolves to meet user needs more effectively. This leads to higher customer satisfaction and a better-aligned final product.
+7. More Flexible and Adaptable to Changes :
+   * The iterative approach allows for adjustments at every stage, making it easier to respond to changing requirements or market conditions without disrupting the entire project.
+8. Better Risk Management Compared to Traditional Models :
+   * Risks are identified and addressed early in each iteration, reducing the likelihood of major issues later in development. Frequent testing and feedback loops help mitigate risks continuously.
+9. Better Cost Estimation :
+   * Since the project is broken into smaller iterations, costs can be estimated more accurately for each phase. This allows for better budget control and reduces the risk of unexpected expenses.
+________________
+
+
+Conclusion :
+The iterative SDLC model emphasizes incremental progress , user involvement , and adaptability , making it ideal for projects; where requirements may evolve or need validation through continuous feedback. These advantages lead to faster delivery, improved quality, and reduced risks compared to rigid models like Waterfall.
